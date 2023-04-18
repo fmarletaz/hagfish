@@ -1,0 +1,17 @@
+CLGA1	chrm33,chrm53,chrm17	chrm29,chrm31,chrm6
+CLGB	chrm56,chrm10,chrm2	chrm19,chrm4,chrm34
+CLGC	chrm1,chrm57	chrm52,chrm13,chrm40
+CLGD	chrm20,chrm54,chrm69,chrm25,chrm63,chrm45	-
+CLGE	chrm42,chrm36,chrm46	chrm30,chrm48,chrm14
+CLGF	chrm61,chrm18	chrm16
+CLGG	chrm5	chrm38
+CLGH	chrm26,chrm3,chrm43	chrm37,chrm58
+CLGI	chrm9,chrm11	-
+CLGJ	chrm12,chrm15	chrm27,chrm23,chrm3
+CLGK	chrm49,chrm60,chrm51	-
+CLGL	chrm44,chrm1,chrm35	-
+CLGM	chrm59,chrm50,chrm22	-
+CLGN	chrm47,chrm64,chrm70	chrm55,chrm67
+CLGO	chrm24,chrm21	chrm65,chrm7
+CLGP	chrm39	chrm28
+CLGQ	chrm8	chrm41

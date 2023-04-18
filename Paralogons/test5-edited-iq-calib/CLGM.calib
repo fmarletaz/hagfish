@@ -1,0 +1,16 @@
+15
+Ptyfla_NA	Sackow_NA	581	503
+Ptyfla_NA	Strpur_NA	581	518.5
+Galgal_alpha1	Xentro_alpha1	350.1	330.4
+Lepocu_alpha1	Galgal_alpha1	439	416
+Chipun_alpha1	Lepocu_alpha1	462.5	421.5
+Lepocu_beta1	Xentro_beta1	439	416
+Chipun_beta1	Lepocu_beta1	462.5	421.5
+Galgal_alpha2	Xentro_alpha2	350.1	330.4
+Galgal_alpha2	Lepocu_alpha2	439	416
+Galgal_alpha2	Chipun_alpha2	462.5	421.5
+Parata_chr15	Petmar_chrm59	581	360
+Galgal_alpha2	Parata_chr15	581	460.6
+Parata_chr6	Petmar_chrm22	581	360
+Bralan_NA	Chipun_alpha1	581	518.5
+Strpur_NA	Chipun_alpha1	581	518.5
