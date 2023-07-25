@@ -1,9 +1,6 @@
-# Functional term enrichment 
+# Functional term enrichment
 
-Functional enrichment (Gene Ontology) was performed on lists of paralogues showing particular retention in regard to the vertebrate WGD in `ext_go.r`. 
+Functional (Gene Ontology) enrichment tests were performed on lists of paralogues showing specific retention patterns following the vertebrates WGDs using the script `ext_go.r`. Obtained functional enrichment results are provided in `Vert2R_Go_enrich_long_wg_gds.txt`. 
 
-Results for the genes lost in hagfish (enrichment in lamprey) is reported in `Loss_Lamprey_GO_gn_dsc.tsv`. 
+The complete list of gene families with lineage-specific losses is provided in `all_families_gain_loss.txt`. Functional enrichment results for the genes lost in hagfish (enrichment based on GO annotation for lamprey genes) is reported in `Loss_Lamprey_GO_gn_dsc.tsv`. 
 
-Results for the enrichement of genes showing alternative retention patterns after WGD is provided in `Vert2R_Go_enrich_long_wg_gds.txt`. 
-
-List of gene families with the lineage specific losses is provided in Vert2R_Go_enrich_long_wg_gds.txt`all_families_gain_loss.txt`. 
