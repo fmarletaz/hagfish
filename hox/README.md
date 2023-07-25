@@ -1,4 +1,4 @@
-# Code and data for the vertebrate hox phylogeny (Figure S)
+# Code and data for the vertebrate hox phylogeny (Supplementary figure 8)
 
 ## Re-running the analysis
 
