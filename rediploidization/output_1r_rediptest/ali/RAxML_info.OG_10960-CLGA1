@@ -1,9 +1,0 @@
-IMPORTANT WARNING: Alignment column 146 contains only undetermined values which will be treated as missing data
-IMPORTANT WARNING: Alignment column 147 contains only undetermined values which will be treated as missing data
-
-IMPORTANT WARNING
-Found 2 columns that contain only undetermined values which will be treated as missing data.
-Normally these columns should be excluded from the analysis.
-
-Just in case you might need it, an alignment file with 
-undetermined columns removed is printed to file output_1r_rediptest/ali/OG_10960-CLGA1.fa.reduced
