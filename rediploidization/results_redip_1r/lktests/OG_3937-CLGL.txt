@@ -1,0 +1,8 @@
+
+# reading out_rediptest-OGrrA_final_freeze/ali/OG_3937-CLGL.pv
+# rank item    obs     au     np |     bp     pp     kh     sh    wkh    wsh |
+#    1    1 -112.0  1.000  1.000 |  1.000  1.000  1.000  1.000  1.000  1.000 |
+#    2    2  112.0  2e-79  1e-21 |      0  2e-49      0      0      0      0 |
+#    3    3  113.8  9e-75  3e-21 |      0  4e-50      0      0      0  8e-06 |
+#    4    4  113.8  6e-60  1e-18 |      0  4e-50      0      0      0      0 |
+
