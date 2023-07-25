@@ -2,7 +2,7 @@
 
 ## Reproducing the analysis
 
-- Uncompress the `data_all` folder
+- Uncompress the `data_all` folder (which contains conditional clade probabilities for the 8931 gene families).
 
 - Open an interactive julia session, using for instance 40 threads: `julia -t 40`
 
@@ -16,4 +16,4 @@ Dependencies:
 
 ## WHALE Reference
 
-Zwaenepoel A, Van de Peer Y. 2020. Model-Based Detection of Whole-Genome Duplications in a Phylogeny. Mol Biol Evol 37:2734–2746. doi:10.1093/molbev/msaa111
+Arthur Zwaenepoel & Yves Van de Peer. Inference of Ancient Whole-Genome Duplications and the Evolution of Gene Duplication and Loss Rates. Molecular Biology and Evolution. 2019.  https://doi.org/10.1093/molbev/msz088
