@@ -1,4 +1,4 @@
-# Code and data for the vertebrate hox phylogeny (Supplementary figure 8)
+# Code and data for the vertebrate hox phylogeny inferred from a concatenation of hox and bystander genes
 
 ## Re-running the analysis
 
