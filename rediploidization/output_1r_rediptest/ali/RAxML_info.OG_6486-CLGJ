@@ -1,0 +1,58 @@
+IMPORTANT WARNING: Alignment column 665 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 666 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 667 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 668 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 669 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 676 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 677 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 680 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 681 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 682 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 683 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 684 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 685 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 686 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 687 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 688 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2278 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2279 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2280 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2281 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2282 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2283 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2284 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2285 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2286 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2287 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2288 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2289 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2290 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2291 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2292 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2293 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2294 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2295 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2296 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2297 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2298 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2299 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2300 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2301 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2302 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2303 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2304 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2305 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2306 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2307 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2308 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2309 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2310 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2311 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 2312 contains only undetermined values which will be treated as missing data
+
+IMPORTANT WARNING
+Found 51 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+undetermined columns removed is printed to file output_1r_rediptest/ali/OG_6486-CLGJ.fa.reduced

@@ -1,0 +1,32 @@
+IMPORTANT WARNING: Alignment column 282 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 307 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 308 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 309 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 353 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 910 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 911 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 912 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1031 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1032 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1033 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1034 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1035 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1036 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1037 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1038 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1039 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1040 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1041 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1048 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1165 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1166 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1197 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1375 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 1390 contains only undetermined values which will be treated as missing data
+
+IMPORTANT WARNING
+Found 25 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+undetermined columns removed is printed to file output_1r_rediptest/ali/OG_4004-CLGC.fa.reduced

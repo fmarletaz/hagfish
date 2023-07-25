@@ -1,0 +1,8 @@
+
+# reading out_rediptest-OGrrA_final_freeze/ali/OG_18654-CLGQ.pv
+# rank item    obs     au     np |     bp     pp     kh     sh    wkh    wsh |
+#    1    1 -270.9  1.000  1.000 |  1.000  1.000  1.000  1.000  1.000  1.000 |
+#    2    2  270.9  4e-47  2e-16 |      0 2e-118      0      0      0      0 |
+#    3    4  282.1  7e-51  2e-17 |      0 3e-123      0      0      0      0 |
+#    4    3  282.8  1e-46  1e-16 |      0 2e-123      0      0      0      0 |
+

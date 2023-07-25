@@ -1,0 +1,96 @@
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 1076 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 46.59%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 10 inferences on the original alignment using 10 user-specified trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1076
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: JTT
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -N 10 -g output_1r_rediptest/aore_ctrees/OG_8404-CLGB.8.ok.nh -p 8080 -n OG_8404-CLGB_aore_8 -m PROTGAMMAJTT -s output_1r_rediptest/ali/OG_8404-CLGB.ok.fa -w /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.077 0.052 0.043 0.052 0.020 0.041 0.062 0.073 0.023 0.054 0.092 0.059 0.024 0.040 0.051 0.069 0.059 0.014 0.032 0.066 
+
+Inference[0]: Time 397.248194 GAMMA-based likelihood -18844.657964, best rearrangement setting 5
+alpha[0]: 0.984249 
+Inference[1]: Time 340.547774 GAMMA-based likelihood -18844.694657, best rearrangement setting 5
+alpha[0]: 0.986361 
+Inference[2]: Time 356.687903 GAMMA-based likelihood -18844.694395, best rearrangement setting 5
+alpha[0]: 0.987006 
+Inference[3]: Time 429.617252 GAMMA-based likelihood -18844.655598, best rearrangement setting 5
+alpha[0]: 0.987576 
+Inference[4]: Time 285.425514 GAMMA-based likelihood -18844.656314, best rearrangement setting 5
+alpha[0]: 0.986012 
+Inference[5]: Time 282.158124 GAMMA-based likelihood -18844.694927, best rearrangement setting 5
+alpha[0]: 0.985884 
+Inference[6]: Time 339.948724 GAMMA-based likelihood -18844.657816, best rearrangement setting 5
+alpha[0]: 0.984375 
+Inference[7]: Time 343.440029 GAMMA-based likelihood -18844.659012, best rearrangement setting 5
+alpha[0]: 0.983447 
+Inference[8]: Time 224.406154 GAMMA-based likelihood -18844.694707, best rearrangement setting 5
+alpha[0]: 0.986263 
+Inference[9]: Time 276.000364 GAMMA-based likelihood -18844.655960, best rearrangement setting 5
+alpha[0]: 0.986604 
+
+
+Conducting final model optimizations on all 10 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -18844.655598 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.0
+Inference[1] final GAMMA-based Likelihood: -18844.694263 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.1
+Inference[2] final GAMMA-based Likelihood: -18844.694263 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.2
+Inference[3] final GAMMA-based Likelihood: -18844.655599 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.3
+Inference[4] final GAMMA-based Likelihood: -18844.655598 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.4
+Inference[5] final GAMMA-based Likelihood: -18844.694263 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.5
+Inference[6] final GAMMA-based Likelihood: -18844.655598 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.6
+Inference[7] final GAMMA-based Likelihood: -18844.655598 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.7
+Inference[8] final GAMMA-based Likelihood: -18844.694263 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.8
+Inference[9] final GAMMA-based Likelihood: -18844.655598 tree written to file /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_result.OG_8404-CLGB_aore_8.RUN.9
+
+
+Starting final GAMMA-based thorough Optimization on tree 9 likelihood -18844.655598 .... 
+
+Final GAMMA-based Score of best tree -18844.655598
+
+Program execution info written to /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_info.OG_8404-CLGB_aore_8
+Best-scoring ML tree written to: /home/elise/projects/whale_hagfish/rediploidisation_code/output_1r_rediptest/ali/RAxML_bestTree.OG_8404-CLGB_aore_8
+
+Overall execution time: 3344.039031 secs or 0.928900 hours or 0.038704 days
+

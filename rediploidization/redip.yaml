@@ -1,0 +1,14 @@
+name: redip
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - consel=0.20=h516909a_1
+  - ete3=3.1.2=pyh9f0ad1d_0
+  - numpy=1.23.4=py310h53a5b5f_0
+  - pandas=1.5.1=py310h769672d_0
+  - python=3.10.6=ha86cf86_0_cpython
+  - raxml=8.2.12=hec16e2b_4
+  - snakemake=7.16.0=hdfd78af_0
+  - snakemake-minimal=7.16.0=pyhdfd78af_0
