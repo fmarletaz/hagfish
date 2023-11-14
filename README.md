@@ -9,10 +9,11 @@ This repository contains the code employed to investigate the hagfish genome, as
 * **Supplementary File 2.** Number of orthologues (mutual-best-hits) shared between hagfish and lamprey chromosomes. [Pata-Pmar_syntCounts.txt](https://github.com/fmarletaz/hagfish/blob/main/Synteny/Pata-Pmar_syntCounts.txt)
 * **Supplementary File 3.** Phylogenetic trees inferred for paralogons in each CLG assuming the C20+R model   [paralogons_t6_c20.pdf](https://github.com/fmarletaz/hagfish/blob/main/Paralogons/paralogons_t6_c20.pdf)
 * **Supplementary File 4.** Synteny-based paralogue classification for reconstructed gene families [Vert_Evt_OGrrA.txt](https://github.com/fmarletaz/hagfish/blob/main/Paralogons/Vert_Evt_OGrrA.txt). 
-* **Supplementary File 5.** Phylogenetic tree of cadherin-related genes showing the tandem duplication patterns in gnathostomes [OG_4678_Cadh.tre.pdf](https://github.com/fmarletaz/hagfish/blob/main/Gene%20families/selected%20trees/OG_4678_Cadh.tre.pdf)
-* **Supplementary File 6.**  Functional enrichment for sets of paralogues showing distinct retention patterns after genome duplications in vertebrates (Fig. 4b) [Vert2R_Go_enrich_wg_gds.txt](https://github.com/fmarletaz/hagfish/blob/main/Functional/Vert2R_Go_enrich_long_wg_gds.txt). 
+
+* **Supplementary File 5**  Functional enrichment for sets of paralogues showing distinct retention patterns after genome duplications in vertebrates (Fig. 4b) [Vert2R_Go_enrich_wg_gds.txt](https://github.com/fmarletaz/hagfish/blob/main/Functional/Vert2R_Go_enrich_long_wg_gds.txt). 
 t). 
-* **Supplementary File 7.** List of gene families labelled with their origin and lineage-specific losses [all_families_gain_loss.txt](https://github.com/fmarletaz/hagfish/blob/main/Gene%20families/all_families_gain_loss.txt)
+* **Supplementary File 6.** List of gene families labelled with their origin and lineage-specific losses [all_families_gain_loss.txt](https://github.com/fmarletaz/hagfish/blob/main/Gene%20families/all_families_gain_loss.txt)
  
 
 Detail about analyses conducted in the paper are specified in the different subfolders. 
+
