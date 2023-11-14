@@ -11,7 +11,7 @@ This repository contains the code employed to investigate the hagfish genome, as
 * **Supplementary File 4.** Synteny-based paralogue classification for reconstructed gene families [Vert_Evt_OGrrA.txt](https://github.com/fmarletaz/hagfish/blob/main/Paralogons/Vert_Evt_OGrrA.txt). 
 
 * **Supplementary File 5**  Functional enrichment for sets of paralogues showing distinct retention patterns after genome duplications in vertebrates (Fig. 4b) [Vert2R_Go_enrich_wg_gds.txt](https://github.com/fmarletaz/hagfish/blob/main/Functional/Vert2R_Go_enrich_long_wg_gds.txt). 
-t). 
+
 * **Supplementary File 6.** List of gene families labelled with their origin and lineage-specific losses [all_families_gain_loss.txt](https://github.com/fmarletaz/hagfish/blob/main/Gene%20families/all_families_gain_loss.txt)
  
 
